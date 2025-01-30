@@ -17,6 +17,15 @@ body{
     width: 250px;
     background-color: black; 
 }
+.dimx{
+    width: 20px;
+    height: auto;
+    position: relative;
+    top: 3px;
+}
+.spazio{
+    border-left: 20px;
+}
 .sidebar nav ul{
     list-style: none;
     padding: 0;
