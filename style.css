@@ -17,11 +17,20 @@ body{
     width: 250px;
     background-color: black; 
 }
+.acca{
+    position: relative;
+    bottom: 50px;
+    left: 40px;
+}
 .dimx{
     width: 20px;
     height: auto;
     position: relative;
     top: 3px;
+}
+.barra{
+    border: none;
+    background-color: black;
 }
 .spazio{
     border-left: 20px;
