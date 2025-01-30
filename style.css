@@ -9,9 +9,12 @@ body{
     width: 100%;
     background-color: red;
 }
-btn{
+.bottone{
+    background-color: black;
+    color: #b3b3b3;
     border-radius: 30%;
-    
+    display: flex;
+    text-align: right;
 }
 .container{
     width: 100%;
